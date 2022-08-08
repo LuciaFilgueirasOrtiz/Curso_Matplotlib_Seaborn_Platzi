@@ -21,3 +21,6 @@ El notebook está organizado según los tópicos que se van viendo y los gráfic
 - Jointplots
 - Pairplots
 - Heatmaps
+
+✨Gracias a este curso ahora se comprender los datos configurando los parámetros adecuados de la visualización, agregar etiquetas, títulos, colores y otros estilos a las gráficas, crear diferente tipos de gráficas de forma rápida, aplicar el método orientado a objetos de Matplotlib para detallar tus visualizaciones.
+
